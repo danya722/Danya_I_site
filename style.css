@@ -1,13 +1,27 @@
-h1{
-    color: red;
+img{
+    border-radius: 500px;
+    weight: 40%;
+    height: 40%;
+    display: block;
+    margin: 0 auto;
 }
-html{
-    background-color: black;
+
+div{
+    float: left;
 }
-html{
-    color: red;
-    background-image: url("MEM.jpg");
+
+.logo{
+    border-radius: 0px;
+    weight: 20px;
+    height: 20px;
+    float: left;
+    margin-right: 10px;
+    margin-right: 10px;
 }
-input{
-    background-color: red
+#desc{
+    width: 50%;
+}
+
+table{
+display: inline
 }
